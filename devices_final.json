@@ -1,0 +1,5582 @@
+[
+  {
+    "slug": "0ecabbee-c5f1-431e-b331-489862ffc9e5",
+    "name": "Google EdgeAI Dev Board 4",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 8,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO",
+      "TensorRT",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 164,
+    "power_watts": 25,
+    "price_usd": 202,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.83,
+      "bert_latency_ms": 182,
+      "power_efficiency_fps_per_watt": 0.24
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-14"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-05-26"
+      }
+    ]
+  },
+  {
+    "slug": "844dad2e-fb60-43a6-8abd-cfb93801594b",
+    "name": "NVIDIA Neuro Nano 6",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 16,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 280,
+    "power_watts": 10,
+    "price_usd": 219,
+    "category": "AI Accelerator",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.88,
+      "bert_latency_ms": 289,
+      "power_efficiency_fps_per_watt": 0.36
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-05-27"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "3ee8525e-010c-4e5d-9c14-daed98405bd8",
+    "name": "Intel Jetson Lite 4",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "ONNX",
+      "PyTorch",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 344,
+    "power_watts": 12,
+    "price_usd": 449,
+    "category": "Edge AI Board",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.02,
+      "bert_latency_ms": 334,
+      "power_efficiency_fps_per_watt": 0.24
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-21"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-08"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-03"
+      }
+    ]
+  },
+  {
+    "slug": "45f6a7f7-ddf2-4a2c-9276-73aea9eb93d2",
+    "name": "Intel Raspberry Pi Plus 8",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 206,
+    "power_watts": 10,
+    "price_usd": 529,
+    "category": "Mini PC",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.25,
+      "bert_latency_ms": 211,
+      "power_efficiency_fps_per_watt": 0.49
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-08-03"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-03-26"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-13"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-09-28"
+      }
+    ]
+  },
+  {
+    "slug": "b0b69b27-b365-4d06-9fe2-c95e9fd125fe",
+    "name": "NVIDIA EdgeAI EdgeBox 6",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 505,
+    "power_watts": 7,
+    "price_usd": 360,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.35,
+      "bert_latency_ms": 504,
+      "power_efficiency_fps_per_watt": 0.28
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-25"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-01"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "slug": "ccd05e06-5330-4f05-ab61-f0320d6283c3",
+    "name": "Intel Jetson EdgeBox 8",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "ONNX",
+      "PyTorch",
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 191,
+    "power_watts": 25,
+    "price_usd": 188,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.13,
+      "bert_latency_ms": 194,
+      "power_efficiency_fps_per_watt": 0.21
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-04-03"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-08"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-07"
+      }
+    ]
+  },
+  {
+    "slug": "5713a229-c6ab-41ba-9bb6-a744974e7f69",
+    "name": "ODROID Tensor Nano 4",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "PyTorch",
+      "Core ML",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 254,
+    "power_watts": 5,
+    "price_usd": 476,
+    "category": "Edge AI Board",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.5,
+      "bert_latency_ms": 255,
+      "power_efficiency_fps_per_watt": 0.79
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-15"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-15"
+      }
+    ]
+  },
+  {
+    "slug": "f4d39047-a4b5-4737-8132-fc4ab1be8b33",
+    "name": "Intel Tensor EdgeBox 9",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "ONNX",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 75,
+    "power_watts": 5,
+    "price_usd": 111,
+    "category": "Single-board Computer",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 13.7,
+      "bert_latency_ms": 58,
+      "power_efficiency_fps_per_watt": 2.67
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-26"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-22"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-07"
+      }
+    ]
+  },
+  {
+    "slug": "978d61ea-ce99-45a9-a028-c7dc477bb38d",
+    "name": "NVIDIA Coral Max 6",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "ONNX",
+      "TensorFlow Lite",
+      "OpenVINO",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 548,
+    "power_watts": 15,
+    "price_usd": 111,
+    "category": "Single-board Computer",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.73,
+      "bert_latency_ms": 564,
+      "power_efficiency_fps_per_watt": 0.12
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-22"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-08"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-15"
+      }
+    ]
+  },
+  {
+    "slug": "9839db22-fc00-43e3-8de5-a8677a43ac2c",
+    "name": "ASUS Coral EdgeBox 8",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 278,
+    "power_watts": 15,
+    "price_usd": 135,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.25,
+      "bert_latency_ms": 292,
+      "power_efficiency_fps_per_watt": 0.24
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-05-22"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-04"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-07"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-17"
+      }
+    ]
+  },
+  {
+    "slug": "c290f468-d4af-4cf8-9695-2202390d0416",
+    "name": "Hardkernel Coral Lite 2",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "Core ML",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 105,
+    "power_watts": 5,
+    "price_usd": 343,
+    "category": "Mini PC",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 9.58,
+      "bert_latency_ms": 92,
+      "power_efficiency_fps_per_watt": 1.9
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-19"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-10"
+      }
+    ]
+  },
+  {
+    "slug": "95f4c4e7-9ee1-4608-82a0-18e168cc6588",
+    "name": "ASUS Vision Dev Board 4",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 422,
+    "power_watts": 15,
+    "price_usd": 165,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.89,
+      "bert_latency_ms": 423,
+      "power_efficiency_fps_per_watt": 0.16
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-13"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-04-27"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-08"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-07-11"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-21"
+      }
+    ]
+  },
+  {
+    "slug": "cc3f2af6-3530-46b2-954c-1a025e70f866",
+    "name": "ODROID Vision X 1",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 242,
+    "power_watts": 15,
+    "price_usd": 327,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.07,
+      "bert_latency_ms": 254,
+      "power_efficiency_fps_per_watt": 0.28
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-02"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-09-22"
+      }
+    ]
+  },
+  {
+    "slug": "911180ce-311a-4574-9a03-5c1d504ce25e",
+    "name": "Intel Neuro Plus 2",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorRT",
+      "Core ML",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 187,
+    "power_watts": 25,
+    "price_usd": 381,
+    "category": "Single-board Computer",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.27,
+      "bert_latency_ms": 191,
+      "power_efficiency_fps_per_watt": 0.21
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-01-10"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-20"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-22"
+      }
+    ]
+  },
+  {
+    "slug": "ccfbebf2-9d27-4028-a81d-d689b3ffc871",
+    "name": "Intel Tensor Max 3",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorFlow Lite",
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 587,
+    "power_watts": 25,
+    "price_usd": 350,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.35,
+      "bert_latency_ms": 569,
+      "power_efficiency_fps_per_watt": 0.07
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-14"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-16"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-25"
+      }
+    ]
+  },
+  {
+    "slug": "098f938e-df6e-4749-979f-b0a5eafc92d8",
+    "name": "Google Raspberry Pi X 3",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorRT",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 315,
+    "power_watts": 5,
+    "price_usd": 111,
+    "category": "Mini PC",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.29,
+      "bert_latency_ms": 327,
+      "power_efficiency_fps_per_watt": 0.63
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-15"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-25"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-15"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-09"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-02-05"
+      }
+    ]
+  },
+  {
+    "slug": "de0ae2da-cf3e-4716-a5ca-0819e6f05886",
+    "name": "Raspberry Pi Foundation Neuro Pro 3",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "Core ML",
+      "TensorFlow Lite",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 484,
+    "power_watts": 12,
+    "price_usd": 125,
+    "category": "Edge AI Board",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.42,
+      "bert_latency_ms": 500,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-25"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-09-26"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-14"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-22"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-05"
+      }
+    ]
+  },
+  {
+    "slug": "54706d05-5f56-4408-8f2c-9add9870f8db",
+    "name": "Qualcomm Coral Max 7",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "ONNX",
+      "TensorFlow Lite",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 498,
+    "power_watts": 7,
+    "price_usd": 145,
+    "category": "Single-board Computer",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.96,
+      "bert_latency_ms": 499,
+      "power_efficiency_fps_per_watt": 0.29
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-16"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-01-12"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-25"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-20"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-22"
+      }
+    ]
+  },
+  {
+    "slug": "4a6cb267-9fe4-432d-b7bc-7744616432e9",
+    "name": "Google Tensor Pro 5",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 16,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 177,
+    "power_watts": 7,
+    "price_usd": 231,
+    "category": "Mini PC",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 6.09,
+      "bert_latency_ms": 169,
+      "power_efficiency_fps_per_watt": 0.81
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-28"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-18"
+      }
+    ]
+  },
+  {
+    "slug": "7a8a6e57-770b-45a5-927d-b582f22a80ab",
+    "name": "Seeed Studio Jetson Plus 9",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorRT",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 490,
+    "power_watts": 12,
+    "price_usd": 72,
+    "category": "AI Accelerator",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.16,
+      "bert_latency_ms": 504,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-09"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-15"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-10-22"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-28"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-04-12"
+      }
+    ]
+  },
+  {
+    "slug": "7da34d80-368d-4a54-99ab-9d3ced74ea5a",
+    "name": "AMD EdgeAI Plus 5",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "Core ML",
+      "ONNX",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 255,
+    "power_watts": 5,
+    "price_usd": 589,
+    "category": "Mini PC",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.21,
+      "bert_latency_ms": 240,
+      "power_efficiency_fps_per_watt": 0.78
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-10"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-09-12"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-06-12"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-08"
+      }
+    ]
+  },
+  {
+    "slug": "2143e031-349c-44ab-ae6d-38c5fa9acf81",
+    "name": "Google Vision Pro 2",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "OpenVINO",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 281,
+    "power_watts": 25,
+    "price_usd": 256,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.29,
+      "bert_latency_ms": 272,
+      "power_efficiency_fps_per_watt": 0.14
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-03-09"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-05-23"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-28"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-16"
+      }
+    ]
+  },
+  {
+    "slug": "dcefdb7b-a40c-4d0e-bd91-6ccdddc33b4c",
+    "name": "Hardkernel Odroid Plus 1",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 176,
+    "power_watts": 5,
+    "price_usd": 549,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.27,
+      "bert_latency_ms": 171,
+      "power_efficiency_fps_per_watt": 1.14
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-10-08"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-28"
+      }
+    ]
+  },
+  {
+    "slug": "6b737c29-6e23-4e9c-a565-2451e5f389ee",
+    "name": "Qualcomm EdgeAI X 1",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 276,
+    "power_watts": 10,
+    "price_usd": 272,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.13,
+      "bert_latency_ms": 284,
+      "power_efficiency_fps_per_watt": 0.36
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-23"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-22"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-22"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "dc18a003-4d67-4b40-bdb2-a6a45f77428f",
+    "name": "Raspberry Pi Foundation EdgeAI Lite 8",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "Core ML",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 371,
+    "power_watts": 25,
+    "price_usd": 539,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.08,
+      "bert_latency_ms": 371,
+      "power_efficiency_fps_per_watt": 0.11
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-19"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-02"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-08-09"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-03"
+      }
+    ]
+  },
+  {
+    "slug": "063da945-3997-4986-9067-018ab43f265b",
+    "name": "Hardkernel Neuro Plus 6",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 16,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "PyTorch",
+      "Core ML",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 224,
+    "power_watts": 10,
+    "price_usd": 167,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.28,
+      "bert_latency_ms": 224,
+      "power_efficiency_fps_per_watt": 0.45
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-15"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-12"
+      }
+    ]
+  },
+  {
+    "slug": "085e3a76-ade6-4003-97c5-b18b4ec663b5",
+    "name": "Qualcomm Tensor Z 1",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite",
+      "OpenVINO",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 194,
+    "power_watts": 10,
+    "price_usd": 333,
+    "category": "Single-board Computer",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.97,
+      "bert_latency_ms": 174,
+      "power_efficiency_fps_per_watt": 0.52
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-04"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-17"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-08"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-07-07"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-11"
+      }
+    ]
+  },
+  {
+    "slug": "63fd0ee5-f557-4637-91be-660934695fbf",
+    "name": "ODROID Coral Lite 5",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 16,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "PyTorch",
+      "Core ML",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 212,
+    "power_watts": 12,
+    "price_usd": 561,
+    "category": "Single-board Computer",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.2,
+      "bert_latency_ms": 207,
+      "power_efficiency_fps_per_watt": 0.39
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-24"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-07-22"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-17"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-14"
+      }
+    ]
+  },
+  {
+    "slug": "80b82fbb-f15a-4830-a45f-7e13712011bb",
+    "name": "Raspberry Pi Foundation Tensor EdgeBox 5",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 16,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorRT",
+      "PyTorch",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 142,
+    "power_watts": 10,
+    "price_usd": 467,
+    "category": "Edge AI Board",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 6.78,
+      "bert_latency_ms": 140,
+      "power_efficiency_fps_per_watt": 0.7
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-02-15"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-02"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-12"
+      }
+    ]
+  },
+  {
+    "slug": "ba78456c-6fcf-402c-b40f-8a04089b802f",
+    "name": "Seeed Studio Raspberry Pi Nano 9",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorRT",
+      "OpenVINO",
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 234,
+    "power_watts": 7,
+    "price_usd": 244,
+    "category": "Single-board Computer",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.23,
+      "bert_latency_ms": 230,
+      "power_efficiency_fps_per_watt": 0.61
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-10"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-19"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-15"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-04"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-06-19"
+      }
+    ]
+  },
+  {
+    "slug": "0c2bf1a5-b0ec-4c46-8938-ef7627501029",
+    "name": "AMD Coral Lite 7",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 110,
+    "power_watts": 15,
+    "price_usd": 68,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 9.27,
+      "bert_latency_ms": 98,
+      "power_efficiency_fps_per_watt": 0.61
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-19"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "slug": "e10705c5-ab0f-4988-b383-ad194296b06d",
+    "name": "ASUS Odroid X 4",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 8,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 573,
+    "power_watts": 10,
+    "price_usd": 434,
+    "category": "Edge AI Board",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.71,
+      "bert_latency_ms": 557,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-28"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-09"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-19"
+      }
+    ]
+  },
+  {
+    "slug": "63532c6d-be66-4272-80d3-15182a7f1e32",
+    "name": "Seeed Studio Jetson Plus 4",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "TensorRT",
+      "PyTorch",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 395,
+    "power_watts": 15,
+    "price_usd": 85,
+    "category": "Single-board Computer",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.08,
+      "bert_latency_ms": 377,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-04-18"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-22"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-14"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-07-09"
+      }
+    ]
+  },
+  {
+    "slug": "594a486d-01d5-48e6-b2f2-db9d36ee3792",
+    "name": "NVIDIA Raspberry Pi Plus 8",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 431,
+    "power_watts": 5,
+    "price_usd": 301,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.79,
+      "bert_latency_ms": 440,
+      "power_efficiency_fps_per_watt": 0.46
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-01"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "slug": "7b91e62b-61d9-433f-91ca-f3c48f210e82",
+    "name": "Qualcomm Jetson Pro 9",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 298,
+    "power_watts": 10,
+    "price_usd": 281,
+    "category": "Single-board Computer",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.4,
+      "bert_latency_ms": 289,
+      "power_efficiency_fps_per_watt": 0.34
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-26"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-06"
+      }
+    ]
+  },
+  {
+    "slug": "71d7c45f-a751-4223-9da6-128bda80b20f",
+    "name": "AMD Odroid Dev Board 7",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 547,
+    "power_watts": 12,
+    "price_usd": 125,
+    "category": "Edge AI Board",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.06,
+      "bert_latency_ms": 560,
+      "power_efficiency_fps_per_watt": 0.15
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-16"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-02-16"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-20"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-20"
+      }
+    ]
+  },
+  {
+    "slug": "00afd9ed-facd-4444-9d83-89cfc73bfa5e",
+    "name": "Qualcomm Vision Max 7",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 577,
+    "power_watts": 15,
+    "price_usd": 524,
+    "category": "Mini PC",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.68,
+      "bert_latency_ms": 571,
+      "power_efficiency_fps_per_watt": 0.12
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-07-24"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-22"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-03"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-04"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-01-19"
+      }
+    ]
+  },
+  {
+    "slug": "6f6e07b2-3fce-4379-bf16-bd8dac5a9e9c",
+    "name": "ODROID Vision Max 2",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 493,
+    "power_watts": 25,
+    "price_usd": 422,
+    "category": "Single-board Computer",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.19,
+      "bert_latency_ms": 487,
+      "power_efficiency_fps_per_watt": 0.08
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-25"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-07-28"
+      }
+    ]
+  },
+  {
+    "slug": "b5251dee-a40d-4cc6-9ae8-d725ad8c01e0",
+    "name": "ODROID Coral Max 5",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 339,
+    "power_watts": 25,
+    "price_usd": 244,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.52,
+      "bert_latency_ms": 359,
+      "power_efficiency_fps_per_watt": 0.12
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-04-13"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-12"
+      }
+    ]
+  },
+  {
+    "slug": "9c5c2fae-bc9e-4a6a-94f0-80283166cd48",
+    "name": "AMD Jetson Plus 1",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "Core ML",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 110,
+    "power_watts": 25,
+    "price_usd": 221,
+    "category": "Mini PC",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 8.86,
+      "bert_latency_ms": 122,
+      "power_efficiency_fps_per_watt": 0.36
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-22"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-02"
+      }
+    ]
+  },
+  {
+    "slug": "56950f2f-0d02-4e6b-8fc2-1f09637cbdfe",
+    "name": "Intel Coral X 1",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "PyTorch",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 276,
+    "power_watts": 7,
+    "price_usd": 368,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.3,
+      "bert_latency_ms": 280,
+      "power_efficiency_fps_per_watt": 0.52
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-14"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-19"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-07-10"
+      }
+    ]
+  },
+  {
+    "slug": "f3385904-9658-45e4-a996-a7708730d06a",
+    "name": "Google Coral X 6",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "ONNX",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 430,
+    "power_watts": 5,
+    "price_usd": 531,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.22,
+      "bert_latency_ms": 429,
+      "power_efficiency_fps_per_watt": 0.47
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-04-25"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-08"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-06"
+      }
+    ]
+  },
+  {
+    "slug": "c4d38785-0669-4986-aa71-2121ea98b238",
+    "name": "Qualcomm Jetson Nano 3",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "OpenVINO",
+      "PyTorch",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 519,
+    "power_watts": 25,
+    "price_usd": 535,
+    "category": "Mini PC",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.5,
+      "bert_latency_ms": 527,
+      "power_efficiency_fps_per_watt": 0.08
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-17"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-02"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-21"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-09-13"
+      }
+    ]
+  },
+  {
+    "slug": "198b23e2-975c-4621-9555-9a1331fcabea",
+    "name": "Hardkernel Coral Max 8",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 8,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 547,
+    "power_watts": 15,
+    "price_usd": 389,
+    "category": "Single-board Computer",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.37,
+      "bert_latency_ms": 555,
+      "power_efficiency_fps_per_watt": 0.12
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-13"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-02"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-18"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-28"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-10-22"
+      }
+    ]
+  },
+  {
+    "slug": "c2cdbcbc-00c5-42e1-85d3-b0f51ca6511d",
+    "name": "Raspberry Pi Foundation EdgeAI Plus 7",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 8,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "PyTorch",
+      "ONNX",
+      "TensorFlow Lite",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 377,
+    "power_watts": 15,
+    "price_usd": 146,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.52,
+      "bert_latency_ms": 368,
+      "power_efficiency_fps_per_watt": 0.18
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-04-05"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-05"
+      }
+    ]
+  },
+  {
+    "slug": "11cec6a4-e631-42c3-8fa2-8c4003b16647",
+    "name": "Qualcomm Odroid X 3",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "ONNX",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 508,
+    "power_watts": 5,
+    "price_usd": 229,
+    "category": "Mini PC",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.7,
+      "bert_latency_ms": 503,
+      "power_efficiency_fps_per_watt": 0.39
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-15"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-17"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-05"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "slug": "983c3934-c0a7-49b2-9d73-1a4881e0c685",
+    "name": "ASUS Jetson Max 9",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 145,
+    "power_watts": 7,
+    "price_usd": 351,
+    "category": "Mini PC",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 7.28,
+      "bert_latency_ms": 126,
+      "power_efficiency_fps_per_watt": 0.99
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-06-08"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-01"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-06-26"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-27"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-15"
+      }
+    ]
+  },
+  {
+    "slug": "942407e8-42a0-4e5f-9c89-eb727a8df1d5",
+    "name": "Qualcomm Jetson Dev Board 1",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 16,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorRT",
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 213,
+    "power_watts": 15,
+    "price_usd": 280,
+    "category": "Edge AI Board",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.24,
+      "bert_latency_ms": 219,
+      "power_efficiency_fps_per_watt": 0.31
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-18"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-10-08"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-20"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-07-06"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "slug": "502eba6d-187b-4663-8eed-6ec4253434b8",
+    "name": "ODROID Coral Max 7",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "PyTorch",
+      "Core ML",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 456,
+    "power_watts": 10,
+    "price_usd": 104,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.83,
+      "bert_latency_ms": 458,
+      "power_efficiency_fps_per_watt": 0.22
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-21"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-02"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-04-02"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-07-27"
+      }
+    ]
+  },
+  {
+    "slug": "037c5f64-f035-48af-8a1b-fe8f84b54f21",
+    "name": "ODROID EdgeAI Z 1",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "PyTorch",
+      "Core ML",
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 425,
+    "power_watts": 5,
+    "price_usd": 352,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.75,
+      "bert_latency_ms": 429,
+      "power_efficiency_fps_per_watt": 0.47
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-12"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-03"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-10"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-22"
+      }
+    ]
+  },
+  {
+    "slug": "41d3eac6-7c80-4266-8e09-84c7d303af8f",
+    "name": "AMD Tensor Lite 7",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 8,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "PyTorch",
+      "OpenVINO",
+      "TensorRT",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 419,
+    "power_watts": 12,
+    "price_usd": 514,
+    "category": "Mini PC",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.25,
+      "bert_latency_ms": 409,
+      "power_efficiency_fps_per_watt": 0.2
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-02"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-12"
+      }
+    ]
+  },
+  {
+    "slug": "b40f7dc0-dad4-4680-94b2-9ac44b984ddb",
+    "name": "Seeed Studio Odroid Dev Board 8",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 16,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 514,
+    "power_watts": 5,
+    "price_usd": 440,
+    "category": "AI Accelerator",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.7,
+      "bert_latency_ms": 501,
+      "power_efficiency_fps_per_watt": 0.39
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-07-18"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-07"
+      }
+    ]
+  },
+  {
+    "slug": "bb19dbfe-1609-41f2-9e3e-d3e8cbc319e2",
+    "name": "Qualcomm Tensor Lite 4",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite",
+      "PyTorch",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 135,
+    "power_watts": 12,
+    "price_usd": 198,
+    "category": "AI Accelerator",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 7.8,
+      "bert_latency_ms": 125,
+      "power_efficiency_fps_per_watt": 0.62
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-07"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-12"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-03-20"
+      }
+    ]
+  },
+  {
+    "slug": "961d429e-ba3d-4b82-b2c3-58855ebe7831",
+    "name": "Google EdgeAI EdgeBox 7",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "ONNX",
+      "PyTorch",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 480,
+    "power_watts": 12,
+    "price_usd": 598,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.26,
+      "bert_latency_ms": 482,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-28"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-03-10"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-12"
+      }
+    ]
+  },
+  {
+    "slug": "8bc06f92-a0ac-4ce5-bb6a-50909ca4084a",
+    "name": "ODROID Jetson Lite 5",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorFlow Lite",
+      "ONNX",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 188,
+    "power_watts": 25,
+    "price_usd": 341,
+    "category": "Single-board Computer",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.48,
+      "bert_latency_ms": 206,
+      "power_efficiency_fps_per_watt": 0.21
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-21"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-14"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-10"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-07-10"
+      }
+    ]
+  },
+  {
+    "slug": "e4ac4d4d-7736-4e89-862c-6b9f7b357c9d",
+    "name": "Hardkernel Coral EdgeBox 3",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 555,
+    "power_watts": 12,
+    "price_usd": 485,
+    "category": "Mini PC",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.43,
+      "bert_latency_ms": 558,
+      "power_efficiency_fps_per_watt": 0.15
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-09"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-02"
+      }
+    ]
+  },
+  {
+    "slug": "5b41bd6c-f027-406f-9afe-6525a103b588",
+    "name": "AMD Neuro X 4",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 380,
+    "power_watts": 7,
+    "price_usd": 395,
+    "category": "AI Accelerator",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.63,
+      "bert_latency_ms": 365,
+      "power_efficiency_fps_per_watt": 0.38
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-12"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-20"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-01-28"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-24"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-13"
+      }
+    ]
+  },
+  {
+    "slug": "e0fcde40-250b-4a0a-92ba-d937b3385693",
+    "name": "NVIDIA Raspberry Pi Max 6",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 16,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "PyTorch",
+      "OpenVINO",
+      "TensorFlow Lite",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 455,
+    "power_watts": 15,
+    "price_usd": 135,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.49,
+      "bert_latency_ms": 456,
+      "power_efficiency_fps_per_watt": 0.15
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-09-13"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-23"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-08-05"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-06-06"
+      }
+    ]
+  },
+  {
+    "slug": "220b61a9-dbe7-4709-b801-52db19870ea3",
+    "name": "Seeed Studio Vision Lite 9",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "TensorFlow Lite",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 546,
+    "power_watts": 5,
+    "price_usd": 366,
+    "category": "Edge AI Board",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.93,
+      "bert_latency_ms": 542,
+      "power_efficiency_fps_per_watt": 0.37
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-03-17"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-02"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-11"
+      }
+    ]
+  },
+  {
+    "slug": "a3ac92e6-2e36-4342-8ec1-7729d732f51c",
+    "name": "Seeed Studio Neuro Nano 4",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 542,
+    "power_watts": 25,
+    "price_usd": 573,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.34,
+      "bert_latency_ms": 552,
+      "power_efficiency_fps_per_watt": 0.07
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-11"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-05-20"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-18"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-23"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-11"
+      }
+    ]
+  },
+  {
+    "slug": "62ce62e3-7b11-420e-9801-73cd59a776ce",
+    "name": "Hardkernel EdgeAI Plus 5",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 464,
+    "power_watts": 10,
+    "price_usd": 448,
+    "category": "AI Accelerator",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.58,
+      "bert_latency_ms": 460,
+      "power_efficiency_fps_per_watt": 0.22
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-05-18"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-10-24"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-11"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-01"
+      }
+    ]
+  },
+  {
+    "slug": "ff4ae536-f13d-4c73-a373-ea3806996a4f",
+    "name": "ODROID Neuro Nano 8",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "Core ML",
+      "ONNX",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 354,
+    "power_watts": 10,
+    "price_usd": 264,
+    "category": "Mini PC",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.21,
+      "bert_latency_ms": 345,
+      "power_efficiency_fps_per_watt": 0.28
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-02"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-10-04"
+      }
+    ]
+  },
+  {
+    "slug": "786ff9fe-e5f7-4a79-b0aa-640cd30e3226",
+    "name": "ASUS Tensor Lite 9",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 576,
+    "power_watts": 12,
+    "price_usd": 197,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.95,
+      "bert_latency_ms": 556,
+      "power_efficiency_fps_per_watt": 0.14
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-06"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-06-03"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-05"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-09"
+      }
+    ]
+  },
+  {
+    "slug": "33f3b5f8-4ae6-451f-8b74-c5ccc432de99",
+    "name": "Seeed Studio Tensor Pro 5",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 16,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "Core ML",
+      "ONNX",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 71,
+    "power_watts": 10,
+    "price_usd": 369,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 13.74,
+      "bert_latency_ms": 83,
+      "power_efficiency_fps_per_watt": 1.41
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-20"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-05"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-06-14"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-25"
+      }
+    ]
+  },
+  {
+    "slug": "7cdc0604-7726-4746-912c-0e46273e2339",
+    "name": "Intel Tensor EdgeBox 9",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 16,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 174,
+    "power_watts": 5,
+    "price_usd": 139,
+    "category": "Edge AI Board",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.93,
+      "bert_latency_ms": 191,
+      "power_efficiency_fps_per_watt": 1.15
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-15"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-19"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-24"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-24"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-14"
+      }
+    ]
+  },
+  {
+    "slug": "b7f9133e-66fa-4db2-9b28-fd0e5c2abcc0",
+    "name": "ASUS Coral EdgeBox 2",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "Core ML",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 353,
+    "power_watts": 12,
+    "price_usd": 92,
+    "category": "Mini PC",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.2,
+      "bert_latency_ms": 357,
+      "power_efficiency_fps_per_watt": 0.24
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-05"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-13"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-25"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-14"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-12"
+      }
+    ]
+  },
+  {
+    "slug": "d252033f-68d1-49b1-95b3-c0182557f484",
+    "name": "Raspberry Pi Foundation Raspberry Pi Lite 2",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 76,
+    "power_watts": 7,
+    "price_usd": 489,
+    "category": "Edge AI Board",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 12.9,
+      "bert_latency_ms": 58,
+      "power_efficiency_fps_per_watt": 1.88
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-04-25"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-05-08"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-06-08"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-18"
+      }
+    ]
+  },
+  {
+    "slug": "fb5c509a-b9d7-4bee-a134-8bbe1c273bb2",
+    "name": "Qualcomm Neuro Nano 9",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 412,
+    "power_watts": 25,
+    "price_usd": 108,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.3,
+      "bert_latency_ms": 426,
+      "power_efficiency_fps_per_watt": 0.1
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-26"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-07-14"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-05-07"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-28"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "slug": "d0be4fbf-a133-4ce1-ab9b-9cb758660fa2",
+    "name": "AMD Coral X 2",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 8,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 550,
+    "power_watts": 7,
+    "price_usd": 282,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.23,
+      "bert_latency_ms": 568,
+      "power_efficiency_fps_per_watt": 0.26
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-06-25"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-21"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-17"
+      }
+    ]
+  },
+  {
+    "slug": "819f3878-5bc7-45dc-9fb2-be8ffb2d9961",
+    "name": "Hardkernel Jetson Z 8",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 16,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 439,
+    "power_watts": 10,
+    "price_usd": 268,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.33,
+      "bert_latency_ms": 456,
+      "power_efficiency_fps_per_watt": 0.23
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-08"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-18"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-08-15"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-05"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-01-17"
+      }
+    ]
+  },
+  {
+    "slug": "60eaed28-a1fd-41c3-8438-a914e3482350",
+    "name": "NVIDIA Coral EdgeBox 1",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 296,
+    "power_watts": 5,
+    "price_usd": 200,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.94,
+      "bert_latency_ms": 316,
+      "power_efficiency_fps_per_watt": 0.68
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-18"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-24"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-01-17"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-17"
+      }
+    ]
+  },
+  {
+    "slug": "0e823bad-f6f4-4ba1-b94a-689457f40784",
+    "name": "AMD EdgeAI Plus 7",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "Core ML",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 475,
+    "power_watts": 12,
+    "price_usd": 442,
+    "category": "Edge AI Board",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.7,
+      "bert_latency_ms": 479,
+      "power_efficiency_fps_per_watt": 0.18
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-01-23"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-07-21"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-02"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-16"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-18"
+      }
+    ]
+  },
+  {
+    "slug": "5052a4ae-d27f-4f6d-8a40-f51f249f102f",
+    "name": "Qualcomm Odroid Dev Board 6",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "PyTorch",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 207,
+    "power_watts": 25,
+    "price_usd": 272,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.01,
+      "bert_latency_ms": 221,
+      "power_efficiency_fps_per_watt": 0.19
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-17"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-08"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-10-20"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-26"
+      }
+    ]
+  },
+  {
+    "slug": "4ea05c58-392c-4c90-abb9-66ea375c6a5f",
+    "name": "Hardkernel Raspberry Pi Z 6",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite",
+      "PyTorch",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 250,
+    "power_watts": 25,
+    "price_usd": 502,
+    "category": "AI Accelerator",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.65,
+      "bert_latency_ms": 270,
+      "power_efficiency_fps_per_watt": 0.16
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-03"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-25"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-06"
+      }
+    ]
+  },
+  {
+    "slug": "38cdb422-75b9-4b79-96c0-112e20ed923c",
+    "name": "Seeed Studio Neuro Z 2",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch",
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 422,
+    "power_watts": 15,
+    "price_usd": 151,
+    "category": "Mini PC",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.65,
+      "bert_latency_ms": 437,
+      "power_efficiency_fps_per_watt": 0.16
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-03-05"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-05"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "slug": "e112ecea-76a5-4571-9ba6-f036c188d348",
+    "name": "AMD Jetson Z 6",
+    "manufacturer": {
+      "name": "AMD",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 16,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 567,
+    "power_watts": 15,
+    "price_usd": 312,
+    "category": "Edge AI Board",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.21,
+      "bert_latency_ms": 568,
+      "power_efficiency_fps_per_watt": 0.12
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-27"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-23"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-13"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-08-19"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "slug": "38da40ce-f09f-44e1-babd-f9c3ff03d91f",
+    "name": "Seeed Studio Jetson Plus 4",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorFlow Lite",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 532,
+    "power_watts": 25,
+    "price_usd": 87,
+    "category": "AI Accelerator",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.62,
+      "bert_latency_ms": 521,
+      "power_efficiency_fps_per_watt": 0.08
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-16"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-07-18"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-20"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-06"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-25"
+      }
+    ]
+  },
+  {
+    "slug": "e0a68a2e-d459-4c0c-8352-025e37ca0907",
+    "name": "ASUS Jetson X 1",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "Core ML",
+      "ONNX",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 287,
+    "power_watts": 15,
+    "price_usd": 324,
+    "category": "Mini PC",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.76,
+      "bert_latency_ms": 304,
+      "power_efficiency_fps_per_watt": 0.23
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-10"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-12"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "slug": "e5630498-fc46-4b2b-97ca-dfcce6ea0f93",
+    "name": "Hardkernel Tensor Plus 2",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 386,
+    "power_watts": 5,
+    "price_usd": 523,
+    "category": "Edge AI Board",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.77,
+      "bert_latency_ms": 376,
+      "power_efficiency_fps_per_watt": 0.52
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-18"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-07-21"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-13"
+      }
+    ]
+  },
+  {
+    "slug": "ad0eb4f8-eb62-4073-81c2-7273aacc5e96",
+    "name": "NVIDIA Tensor Pro 7",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO",
+      "Core ML",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 279,
+    "power_watts": 7,
+    "price_usd": 64,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.28,
+      "bert_latency_ms": 266,
+      "power_efficiency_fps_per_watt": 0.51
+    },
+    "reviews": [
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-06-20"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-04"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-06"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "slug": "900fd890-3082-41d4-85e2-d8c7cbf778e1",
+    "name": "Raspberry Pi Foundation Jetson Plus 4",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 247,
+    "power_watts": 10,
+    "price_usd": 179,
+    "category": "Mini PC",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.97,
+      "bert_latency_ms": 258,
+      "power_efficiency_fps_per_watt": 0.4
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-06"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-01-28"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-03-07"
+      }
+    ]
+  },
+  {
+    "slug": "f5f034f6-7f10-4a0e-a2d8-aeba3ad8e902",
+    "name": "Seeed Studio Tensor Max 7",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 514,
+    "power_watts": 12,
+    "price_usd": 485,
+    "category": "Edge AI Board",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.72,
+      "bert_latency_ms": 528,
+      "power_efficiency_fps_per_watt": 0.16
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-08-18"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-25"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-18"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-04-10"
+      }
+    ]
+  },
+  {
+    "slug": "f69cf3e5-367e-420e-bd41-d5055cd7d2cf",
+    "name": "NVIDIA EdgeAI Z 6",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch",
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 180,
+    "power_watts": 7,
+    "price_usd": 509,
+    "category": "Single-board Computer",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.87,
+      "bert_latency_ms": 163,
+      "power_efficiency_fps_per_watt": 0.79
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-03-11"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-05-28"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-09"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-04-05"
+      }
+    ]
+  },
+  {
+    "slug": "23686934-5f40-4d8f-b003-9e96c465523d",
+    "name": "ASUS Neuro Pro 8",
+    "manufacturer": {
+      "name": "ASUS",
+      "country": "Taiwan"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 8,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 484,
+    "power_watts": 12,
+    "price_usd": 335,
+    "category": "AI Accelerator",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.02,
+      "bert_latency_ms": 495,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-08-21"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-07-07"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-11"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-10-05"
+      }
+    ]
+  },
+  {
+    "slug": "7445cece-4cf8-49e2-941d-426611888a10",
+    "name": "Qualcomm Vision Z 1",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "TensorRT",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 530,
+    "power_watts": 5,
+    "price_usd": 161,
+    "category": "Single-board Computer",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.38,
+      "bert_latency_ms": 518,
+      "power_efficiency_fps_per_watt": 0.38
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-09"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-02"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-04-14"
+      },
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-07"
+      }
+    ]
+  },
+  {
+    "slug": "cc0e312a-b2d5-421d-b9d8-bdb2781e29ec",
+    "name": "Hardkernel Odroid EdgeBox 4",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 68,
+    "power_watts": 25,
+    "price_usd": 69,
+    "category": "Single-board Computer",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 14.59,
+      "bert_latency_ms": 54,
+      "power_efficiency_fps_per_watt": 0.59
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-13"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-03"
+      }
+    ]
+  },
+  {
+    "slug": "9fec98f0-b211-4f36-b640-55263a52d56b",
+    "name": "ODROID Odroid Dev Board 8",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 16,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "ONNX",
+      "TensorFlow Lite",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 215,
+    "power_watts": 12,
+    "price_usd": 278,
+    "category": "Mini PC",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 4.5,
+      "bert_latency_ms": 222,
+      "power_efficiency_fps_per_watt": 0.39
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-08"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-07"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-21"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-07-04"
+      }
+    ]
+  },
+  {
+    "slug": "210d49e2-653e-4976-85a5-1e97c18e5ffe",
+    "name": "Intel Jetson Z 9",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorRT",
+      "PyTorch",
+      "ONNX",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 384,
+    "power_watts": 7,
+    "price_usd": 429,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.12,
+      "bert_latency_ms": 377,
+      "power_efficiency_fps_per_watt": 0.37
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-05-21"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-03"
+      }
+    ]
+  },
+  {
+    "slug": "d509ef07-8e14-4875-b0be-726f6e72fa1a",
+    "name": "ODROID Odroid Max 5",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 4,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "OpenVINO",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 140,
+    "power_watts": 15,
+    "price_usd": 377,
+    "category": "AI Accelerator",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 7.34,
+      "bert_latency_ms": 135,
+      "power_efficiency_fps_per_watt": 0.48
+    },
+    "reviews": [
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-02-15"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "slug": "de0431d5-c18f-4256-91ba-c4e863d14bb6",
+    "name": "NVIDIA Coral Nano 3",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "PyTorch",
+      "ONNX",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 595,
+    "power_watts": 15,
+    "price_usd": 415,
+    "category": "Edge AI Board",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.52,
+      "bert_latency_ms": 602,
+      "power_efficiency_fps_per_watt": 0.11
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-21"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-09-12"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-03-12"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-10-22"
+      }
+    ]
+  },
+  {
+    "slug": "455ff717-0c5d-4999-a9ed-3e138727d5ec",
+    "name": "Google Coral Pro 1",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 4,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "ONNX",
+      "Core ML",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 107,
+    "power_watts": 12,
+    "price_usd": 310,
+    "category": "Single-board Computer",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 9.17,
+      "bert_latency_ms": 113,
+      "power_efficiency_fps_per_watt": 0.78
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-06-04"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-02"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-25"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-15"
+      }
+    ]
+  },
+  {
+    "slug": "b007598f-0fd4-489e-a20f-fac4edafbd99",
+    "name": "NVIDIA Raspberry Pi Plus 5",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A57",
+    "ram_gb": 16,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "ONNX",
+      "OpenVINO",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 535,
+    "power_watts": 10,
+    "price_usd": 308,
+    "category": "Mini PC",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.39,
+      "bert_latency_ms": 549,
+      "power_efficiency_fps_per_watt": 0.19
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-28"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-23"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Great for prototypes!",
+        "date": "2025-04-28"
+      }
+    ]
+  },
+  {
+    "slug": "d54c663d-5b46-418d-b8e2-d04ed8b30f89",
+    "name": "ODROID Vision X 8",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 4,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 577,
+    "power_watts": 7,
+    "price_usd": 157,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.52,
+      "bert_latency_ms": 577,
+      "power_efficiency_fps_per_watt": 0.25
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-08"
+      },
+      {
+        "user": "maker101",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-10-04"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-15"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-09-12"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-09"
+      }
+    ]
+  },
+  {
+    "slug": "ba57cd2d-03c4-4aa6-a523-146af6e1b6db",
+    "name": "Google Odroid EdgeBox 5",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "ONNX",
+      "PyTorch",
+      "TensorRT",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 395,
+    "power_watts": 7,
+    "price_usd": 280,
+    "category": "AI Accelerator",
+    "release_year": 2019,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.85,
+      "bert_latency_ms": 386,
+      "power_efficiency_fps_per_watt": 0.36
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "slug": "a2b74c2a-de57-4e39-9bb4-02e3ad540aaa",
+    "name": "NVIDIA Raspberry Pi Dev Board 3",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A76",
+    "ram_gb": 8,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "OpenVINO",
+      "PyTorch",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 441,
+    "power_watts": 25,
+    "price_usd": 470,
+    "category": "Single-board Computer",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.67,
+      "bert_latency_ms": 449,
+      "power_efficiency_fps_per_watt": 0.09
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-15"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-07-27"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
+    "slug": "d0c87cda-094e-4d59-b0c2-12622d2ea6d3",
+    "name": "Seeed Studio Vision Nano 4",
+    "manufacturer": {
+      "name": "Seeed Studio",
+      "country": "China"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "OpenVINO",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 346,
+    "power_watts": 12,
+    "price_usd": 341,
+    "category": "AI Accelerator",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.89,
+      "bert_latency_ms": 361,
+      "power_efficiency_fps_per_watt": 0.24
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-05"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-08"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-06-16"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Excellent community support.",
+        "date": "2025-09-11"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-11"
+      }
+    ]
+  },
+  {
+    "slug": "dee8fae0-fea1-4dd6-962f-b9466a2817c3",
+    "name": "Qualcomm Coral Pro 5",
+    "manufacturer": {
+      "name": "Qualcomm",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 426,
+    "power_watts": 15,
+    "price_usd": 543,
+    "category": "Edge AI Board",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.61,
+      "bert_latency_ms": 420,
+      "power_efficiency_fps_per_watt": 0.16
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-04-19"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-06-19"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-06-19"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Solid performance for the price.",
+        "date": "2025-08-18"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-03"
+      }
+    ]
+  },
+  {
+    "slug": "bbd3f717-2a80-4a16-9f66-4b561c98d35d",
+    "name": "NVIDIA Raspberry Pi Pro 1",
+    "manufacturer": {
+      "name": "NVIDIA",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 32,
+    "storage": "MicroSD",
+    "ai_model_support": [
+      "PyTorch",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 399,
+    "power_watts": 15,
+    "price_usd": 60,
+    "category": "Edge AI Board",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.15,
+      "bert_latency_ms": 388,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-19"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "slug": "1ec3303f-fbf9-4d77-abc7-c199be3f8fcf",
+    "name": "Raspberry Pi Foundation Tensor X 6",
+    "manufacturer": {
+      "name": "Raspberry Pi Foundation",
+      "country": "UK"
+    },
+    "processor": "Edge TPU",
+    "ram_gb": 8,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorRT",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 288,
+    "power_watts": 25,
+    "price_usd": 425,
+    "category": "Single-board Computer",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.7,
+      "bert_latency_ms": 304,
+      "power_efficiency_fps_per_watt": 0.14
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 3,
+        "comment": "Excellent community support.",
+        "date": "2025-06-26"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-02-16"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-02-08"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-27"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-07"
+      }
+    ]
+  },
+  {
+    "slug": "9eb212f1-6186-4e5d-8410-ca2b57440518",
+    "name": "Intel Vision EdgeBox 5",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "TensorRT",
+      "ONNX",
+      "Core ML",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 109,
+    "power_watts": 12,
+    "price_usd": 61,
+    "category": "Mini PC",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 8.78,
+      "bert_latency_ms": 119,
+      "power_efficiency_fps_per_watt": 0.76
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-10"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-02-03"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "slug": "32a44268-0ef7-4ef4-b55f-7119ab944a8b",
+    "name": "Google Jetson Max 6",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorRT",
+      "ONNX",
+      "TensorFlow Lite",
+      "Core ML"
+    ],
+    "avg_inference_latency_ms": 501,
+    "power_watts": 25,
+    "price_usd": 91,
+    "category": "Single-board Computer",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.91,
+      "bert_latency_ms": 516,
+      "power_efficiency_fps_per_watt": 0.08
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-02-02"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-08-05"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-07-03"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-16"
+      }
+    ]
+  },
+  {
+    "slug": "dfdde433-936f-4f88-a340-d23a670a2bae",
+    "name": "Intel Coral EdgeBox 4",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 8,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "PyTorch",
+      "TensorRT"
+    ],
+    "avg_inference_latency_ms": 143,
+    "power_watts": 12,
+    "price_usd": 358,
+    "category": "AI Accelerator",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 6.58,
+      "bert_latency_ms": 157,
+      "power_efficiency_fps_per_watt": 0.58
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-06-06"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-15"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-10-02"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-02-03"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Documentation could be better.",
+        "date": "2025-10-08"
+      }
+    ]
+  },
+  {
+    "slug": "5a432c11-0ecd-467d-b7d0-aa16c6c6e886",
+    "name": "ODROID Neuro Dev Board 9",
+    "manufacturer": {
+      "name": "ODROID",
+      "country": "South Korea"
+    },
+    "processor": "Jetson TX2",
+    "ram_gb": 32,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "TensorRT",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 301,
+    "power_watts": 12,
+    "price_usd": 546,
+    "category": "Edge AI Board",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 3.77,
+      "bert_latency_ms": 309,
+      "power_efficiency_fps_per_watt": 0.28
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-03-02"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-07"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-06-24"
+      }
+    ]
+  },
+  {
+    "slug": "b2e6f344-ecfc-4df5-8a5f-5ba52f665b5e",
+    "name": "Google Neuro EdgeBox 9",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Jetson Orin Nano",
+    "ram_gb": 32,
+    "storage": "SATA SSD",
+    "ai_model_support": [
+      "Core ML",
+      "OpenVINO"
+    ],
+    "avg_inference_latency_ms": 342,
+    "power_watts": 15,
+    "price_usd": 393,
+    "category": "Edge AI Board",
+    "release_year": 2022,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.84,
+      "bert_latency_ms": 331,
+      "power_efficiency_fps_per_watt": 0.19
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-05-28"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-21"
+      }
+    ]
+  },
+  {
+    "slug": "0632a6dc-7f8f-4904-a3c2-6532960402b4",
+    "name": "Hardkernel Coral Z 3",
+    "manufacturer": {
+      "name": "Hardkernel",
+      "country": "South Korea"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "Core ML",
+      "TensorRT",
+      "TensorFlow Lite",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 207,
+    "power_watts": 15,
+    "price_usd": 472,
+    "category": "Edge AI Board",
+    "release_year": 2023,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 5.08,
+      "bert_latency_ms": 204,
+      "power_efficiency_fps_per_watt": 0.32
+    },
+    "reviews": [
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-05-09"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-02-28"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-08-25"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-07-20"
+      }
+    ]
+  },
+  {
+    "slug": "dd4c7de9-0eff-430c-b06a-94a01508c7c5",
+    "name": "Google Tensor Pro 4",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "ARM Cortex-A78",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 588,
+    "power_watts": 10,
+    "price_usd": 556,
+    "category": "Mini PC",
+    "release_year": 2025,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 1.34,
+      "bert_latency_ms": 601,
+      "power_efficiency_fps_per_watt": 0.17
+    },
+    "reviews": [
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-01-08"
+      },
+      {
+        "user": "tech_guru",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-06-23"
+      }
+    ]
+  },
+  {
+    "slug": "835a14f8-a7f9-49d6-a22b-5cefd9492825",
+    "name": "Intel Vision Lite 8",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Ryzen 5 5560U",
+    "ram_gb": 32,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorRT",
+      "ONNX"
+    ],
+    "avg_inference_latency_ms": 91,
+    "power_watts": 7,
+    "price_usd": 186,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 10.65,
+      "bert_latency_ms": 87,
+      "power_efficiency_fps_per_watt": 1.57
+    },
+    "reviews": [
+      {
+        "user": "embedded_ninja",
+        "rating": 3,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-06"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 3,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-22"
+      }
+    ]
+  },
+  {
+    "slug": "7dbf80cc-1d2b-4c90-a476-c073453a950a",
+    "name": "Intel Neuro Lite 9",
+    "manufacturer": {
+      "name": "Intel",
+      "country": "USA"
+    },
+    "processor": "Broadcom BCM2712",
+    "ram_gb": 4,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "OpenVINO",
+      "TensorFlow Lite"
+    ],
+    "avg_inference_latency_ms": 545,
+    "power_watts": 7,
+    "price_usd": 69,
+    "category": "AI Accelerator",
+    "release_year": 2024,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.05,
+      "bert_latency_ms": 542,
+      "power_efficiency_fps_per_watt": 0.26
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-05-07"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-09-27"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Great for prototypes!",
+        "date": "2025-01-17"
+      },
+      {
+        "user": "hw_tinkerer",
+        "rating": 5,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-10-20"
+      },
+      {
+        "user": "embedded_ninja",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "slug": "b0ab7253-b547-454b-b2d6-f7400a13490a",
+    "name": "Google EdgeAI Plus 6",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Intel N100",
+    "ram_gb": 16,
+    "storage": "eMMC",
+    "ai_model_support": [
+      "ONNX",
+      "TensorFlow Lite",
+      "TensorRT",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 365,
+    "power_watts": 7,
+    "price_usd": 327,
+    "category": "Edge AI Board",
+    "release_year": 2020,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 2.9,
+      "bert_latency_ms": 363,
+      "power_efficiency_fps_per_watt": 0.39
+    },
+    "reviews": [
+      {
+        "user": "ml_ops",
+        "rating": 4,
+        "comment": "Documentation could be better.",
+        "date": "2025-01-19"
+      },
+      {
+        "user": "pi_pro",
+        "rating": 4,
+        "comment": "Thermals need attention under load.",
+        "date": "2025-04-22"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-09-10"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 5,
+        "comment": "Excellent community support.",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "slug": "94e49488-d378-44c0-a0e6-499907e73bf0",
+    "name": "Google Odroid Z 5",
+    "manufacturer": {
+      "name": "Google",
+      "country": "USA"
+    },
+    "processor": "Intel i3-1215U",
+    "ram_gb": 8,
+    "storage": "NVMe",
+    "ai_model_support": [
+      "Core ML",
+      "PyTorch"
+    ],
+    "avg_inference_latency_ms": 151,
+    "power_watts": 7,
+    "price_usd": 403,
+    "category": "AI Accelerator",
+    "release_year": 2021,
+    "image_url": "placeholder.png",
+    "benchmarks": {
+      "resnet50_fps": 6.38,
+      "bert_latency_ms": 149,
+      "power_efficiency_fps_per_watt": 0.95
+    },
+    "reviews": [
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Great for prototypes!",
+        "date": "2025-10-19"
+      },
+      {
+        "user": "maker101",
+        "rating": 4,
+        "comment": "Solid performance for the price.",
+        "date": "2025-09-04"
+      },
+      {
+        "user": "ml_ops",
+        "rating": 5,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-07-02"
+      },
+      {
+        "user": "edge_ai_fan",
+        "rating": 3,
+        "comment": "Solid performance for the price.",
+        "date": "2025-06-14"
+      },
+      {
+        "user": "iot_builder",
+        "rating": 3,
+        "comment": "Low power draw, very efficient.",
+        "date": "2025-03-25"
+      }
+    ]
+  }
+]
